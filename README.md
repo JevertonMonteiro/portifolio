@@ -5,7 +5,7 @@ Foi criado com foco em um design moderno, responsivo e prático para facilitar a
 
 ## 📸 Preview  
 
-![Preview do Portfólio]https://i.postimg.cc/Z53r96gs/Jeverton-Monteiro.png  
+[Preview do Portfólio] https://i.postimg.cc/Z53r96gs/Jeverton-Monteiro.png  
 
 ---
 
