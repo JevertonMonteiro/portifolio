@@ -3,9 +3,6 @@
 Este é o meu **portfólio pessoal**, desenvolvido para apresentar minhas habilidades, projetos e formas de contato.  
 Foi criado com foco em um design moderno, responsivo e prático para facilitar a navegação de recrutadores e visitantes.  
 
-## 📸 Preview  
-
-[Preview do Portfólio] https://i.postimg.cc/Z53r96gs/Jeverton-Monteiro.png  
 
 ---
 
