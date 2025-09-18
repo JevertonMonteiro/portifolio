@@ -33,9 +33,3 @@ Aqui você encontrará informações sobre mim, minhas redes sociais e exemplos 
 - **Contato:** Minhas redes sociais e formas de contato.  
 
 ---
-
-## 🚀 Como Executar o Projeto  
-
-1. Clone este repositório:  
-   ```bash
-   git clone https://github.com/seu-usuario/portfolio.git
