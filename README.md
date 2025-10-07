@@ -17,10 +17,6 @@ Aqui você encontrará informações sobre mim, minhas redes sociais e exemplos 
 
 - **HTML5**  
 - **CSS3**  
-- **JavaScript**  
-- **React.js**  
-- **Firebase** (para hospedagem ou banco de dados)  
-
 ---
 
 ## 📂 Seções do Portfólio  
